@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Relative low income",
+                "Absolute low income",
+                ""
+              ]
+            },
+            "title": "Income category"
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Before housing costs",
+                "After housing costs",
+                ""
+              ]
+            },
+            "title": "Sub-category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
+  "title": "Proportion of population living below the national poverty line, by sex and age"
 }

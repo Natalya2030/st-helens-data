@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Absolute low income",
+                "Relative low income"
+              ]
+            },
+            "title": "Income category"
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "After housing costs",
+                "Before housing costs"
+              ]
+            },
+            "title": "Sub-category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
