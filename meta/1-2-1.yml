@@ -110,11 +110,11 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/23c8ac3478cd745bc34d836ae1931f9be425ac68
-national_data_update_url_text: '2021-08-17: see changes on GitHub'
+  
+national_data_update_url_text: 
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/ffb6ed8364b7efc9d8da61b4dacb959f6ced42a6
-national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
+ 
+national_metadata_update_url_text: 
 source_organisation_1: House of Commons Library
 source_periodicity_1: Annual (data based on a three-year rolling average)
 source_earliest_available_1: 1994/95
