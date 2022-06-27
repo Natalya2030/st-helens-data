@@ -28,8 +28,10 @@ indicator_number: 1.5.4
 national_geographical_coverage: St Helens
 page_content: >-
   **Non-statistical indicator**
+  
   We have identified the following laws, policies and strategy plans in place
-  that are relevant to this indicator -
+  that are relevant to this indicator
+  
   [Merseyside Prepared](https://www.merseysideprepared.org.uk/) - The Merseyside
   Resilience Forum (MRF) is a multi-agency partnership made up of all the
   organisations needed to prepare for and respond to any emergency in the
@@ -43,11 +45,12 @@ page_content: >-
   communities of Merseyside.
  
   [St Helens Business Continuity 
-  Management Toolkit] (https://new.sthelens.gov.uk/media/11127/bc-resilience-for-businesses-and-voluntary-organisations.pdf)
+  Management Toolkit](https://new.sthelens.gov.uk/media/11127/bc-resilience-for-businesses-and-voluntary-organisations.pdf)
   - St Helens Business Continuity Management Toolkit - Business Continuity
   is the capability of the organisation to continue to deliver products or 
   services at an acceptable predefined level following a disruptive
   incident
+  
 permalink: ''
 precision: []
 reporting_status: complete
