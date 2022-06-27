@@ -115,11 +115,11 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/28fb478fb47cce8a44ce8241f96a660146fc62f4
-national_data_update_url_text: '2021-08-17: see changes on GitHub'
+https://github.com/sdg-st-helens/st-helens-data/edit/1-5-1/data/indicator_1-2-1.csv
+national_data_update_url_text: '2022-06-27: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/7804352decd85e9b506dbe33e0985b836839cc1d
-national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
+https://github.com/sdg-st-helens/st-helens-data/blob/develop/meta/1-2-2.yml
+national_metadata_update_url_text: '2022-06-27: see changes on GitHub'
 source_organisation_1: House of Commons Library
 source_periodicity_1: Annual (three-year rolling average)
 source_earliest_available_1: 1994/95
