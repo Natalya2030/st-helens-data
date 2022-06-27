@@ -12,11 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Relative low income",
+                "Absolute low income",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Before housing costs",
+                "After housing costs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children",
+                "Pensioners",
+                "Working-age adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-2",
-  "title": "global_indicators.1-2-2-title"
+  "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
 }
