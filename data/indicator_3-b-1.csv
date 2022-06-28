@@ -1,0 +1,113 @@
+Year,Vaccine,Age,Value
+2020,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,89.4
+2019,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,89.6
+2018,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,90.9
+2017,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,93.2
+2016,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,92.8
+2015,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,91.5
+2014,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,94.1
+2013,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,92.8
+2020,Meningococcal group B (primary),1 year,91.9
+2019,Meningococcal group B (primary),1 year,91
+2018,Meningococcal group B (primary),1 year,91.3
+2017,Meningococcal group B (primary),1 year,93.7
+2016,Meningococcal group B (primary),1 year,92.9
+2015,Meningococcal group B (primary),1 year,
+2014,Meningococcal group B (primary),1 year,
+2013,Meningococcal group B (primary),1 year,
+2020,Pneumococcal disease (primary),1 year,
+2019,Pneumococcal disease (primary),1 year,91.2
+2018,Pneumococcal disease (primary),1 year,91.4
+2017,Pneumococcal disease (primary),1 year,93.8
+2016,Pneumococcal disease (primary),1 year,91.3
+2015,Pneumococcal disease (primary),1 year,91.6
+2014,Pneumococcal disease (primary),1 year,94
+2013,Pneumococcal disease (primary),1 year,94
+2020,Rotavirus (primary),1 year,89.4
+2019,Rotavirus (primary),1 year,88.5
+2018,Rotavirus (primary),1 year,90.8
+2017,Rotavirus (primary),1 year,91.2
+2016,Rotavirus (primary),1 year,93.2
+2015,Rotavirus (primary),1 year,
+2014,Rotavirus (primary),1 year,
+2013,Rotavirus (primary),1 year,
+2020,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,96.9
+2019,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,92.9
+2018,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,95
+2017,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,95.7
+2016,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,96
+2015,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,96.4
+2014,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,96.9
+2013,Diphtheria Tetanus Polio Pertussis Hib (primary),2 years,97.7
+2020,Hib Meningococcal group C (booster),2 years,95.3
+2019,Hib Meningococcal group C (booster),2 years,89.6
+2018,Hib Meningococcal group C (booster),2 years,89.9
+2017,Hib Meningococcal group C (booster),2 years,91.1
+2016,Hib Meningococcal group C (booster),2 years,90.5
+2015,Hib Meningococcal group C (booster),2 years,92.5
+2014,Hib Meningococcal group C (booster),2 years,92.7
+2013,Hib Meningococcal group C (booster),2 years,96.9
+2020,Measles mumps rubella (first dose),2 years,95.3
+2019,Measles mumps rubella (first dose),2 years,89.1
+2018,Measles mumps rubella (first dose),2 years,89.9
+2017,Measles mumps rubella (first dose),2 years,91.2
+2016,Measles mumps rubella (first dose),2 years,90.4
+2015,Measles mumps rubella (first dose),2 years,91.3
+2014,Measles mumps rubella (first dose),2 years,92.5
+2013,Measles mumps rubella (first dose),2 years,96.3
+2020,Meningococcal group B (Booster),2 years,94.5
+2019,Meningococcal group B (Booster),2 years,89.4
+2018,Meningococcal group B (Booster),2 years,88.5
+2017,Meningococcal group B (Booster),2 years,91.1
+2016,Meningococcal group B (Booster),2 years,
+2015,Meningococcal group B (Booster),2 years,
+2014,Meningococcal group B (Booster),2 years,
+2013,Meningococcal group B (Booster),2 years,
+2020,Pneumococcal disease (booster),2 years,95.3
+2019,Pneumococcal disease (booster),2 years,87.4
+2018,Pneumococcal disease (booster),2 years,89.9
+2017,Pneumococcal disease (booster),2 years,91.3
+2016,Pneumococcal disease (booster),2 years,91.3
+2015,Pneumococcal disease (booster),2 years,98
+2014,Pneumococcal disease (booster),2 years,93.3
+2013,Pneumococcal disease (booster),2 years,96.5
+2020,Diphtheria Tetanus Polio Pertussis (booster),5 years,96.2
+2019,Diphtheria Tetanus Polio Pertussis (booster),5 years,97.3
+2018,Diphtheria Tetanus Polio Pertussis (booster),5 years,89.5
+2017,Diphtheria Tetanus Polio Pertussis (booster),5 years,89.6
+2016,Diphtheria Tetanus Polio Pertussis (booster),5 years,97.3
+2015,Diphtheria Tetanus Polio Pertussis (booster),5 years,90.1
+2014,Diphtheria Tetanus Polio Pertussis (booster),5 years,91
+2013,Diphtheria Tetanus Polio Pertussis (booster),5 years,91.2
+2020,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,86.5
+2019,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,87.1
+2018,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,98.1
+2017,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,97.6
+2016,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,97.3
+2015,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,98.5
+2014,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,98.1
+2013,Diphtheria Tetanus Polio Pertussis Hib (primary),5 years,98.1
+2020,Hib Meningococcal group C (booster),5 years,94.5
+2019,Hib Meningococcal group C (booster),5 years,93.8
+2018,Hib Meningococcal group C (booster),5 years,95.6
+2017,Hib Meningococcal group C (booster),5 years,95.4
+2016,Hib Meningococcal group C (booster),5 years,96
+2015,Hib Meningococcal group C (booster),5 years,97.3
+2014,Hib Meningococcal group C (booster),5 years,96.4
+2013,Hib Meningococcal group C (booster),5 years,96.7
+2020,Measles mumps rubella (first and second dose),5 years,87.7
+2019,Measles mumps rubella (first and second dose),5 years,87.2
+2018,Measles mumps rubella (first and second dose),5 years,89.3
+2017,Measles mumps rubella (first and second dose),5 years,90.1
+2016,Measles mumps rubella (first and second dose),5 years,88.4
+2015,Measles mumps rubella (first and second dose),5 years,89.4
+2014,Measles mumps rubella (first and second dose),5 years,90.6
+2013,Measles mumps rubella (first and second dose),5 years,93.1
+2020,Measles mumps rubella (first dose),5 years,95.9
+2019,Measles mumps rubella (first dose),5 years,96.3
+2018,Measles mumps rubella (first dose),5 years,97.8
+2017,Measles mumps rubella (first dose),5 years,96.9
+2016,Measles mumps rubella (first dose),5 years,97.1
+2015,Measles mumps rubella (first dose),5 years,98
+2014,Measles mumps rubella (first dose),5 years,97.3
+2013,Measles mumps rubella (first dose),5 years,97.4
