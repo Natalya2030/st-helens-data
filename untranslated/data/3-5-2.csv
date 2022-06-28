@@ -1,1 +1,40 @@
-Year,Value
+Year,Series,Value
+2008/09,Alcohol-related Mortality,1028.0
+2009/10,Alcohol-related Mortality,1071.0
+2010/11,Alcohol-related Mortality,1103.0
+2011/12,Alcohol-related Mortality,1135.0
+2012/13,Alcohol-related Mortality,1092.0
+2013/14,Alcohol-related Mortality,1052.0
+2014/15,Alcohol-related Mortality,1051.0
+2015/16,Alcohol-related Mortality,1096.0
+2016/17,Alcohol-related Mortality,1118.0
+2017/18,Alcohol-related Mortality,1100.0
+2018/19,Alcohol-related Mortality,1141.0
+2019/20,Alcohol-related Mortality,1117.0
+2020/21,Alcohol-related Mortality,1013.0
+2008/09,Admission episodes for alcohol-related conditions (narrow),775.0
+2009/10,Admission episodes for alcohol-related conditions (narrow),804.0
+2010/11,Admission episodes for alcohol-related conditions (narrow),827.0
+2011/12,Admission episodes for alcohol-related conditions (narrow),855.0
+2012/13,Admission episodes for alcohol-related conditions (narrow),855.0
+2013/14,Admission episodes for alcohol-related conditions (narrow),823.0
+2014/15,Admission episodes for alcohol-related conditions (narrow),800.0
+2015/16,Admission episodes for alcohol-related conditions (narrow),850.0
+2016/17,Admission episodes for alcohol-related conditions (narrow),867.0
+2017/18,Admission episodes for alcohol-related conditions (narrow),825.0
+2018/19,Admission episodes for alcohol-related conditions (narrow),883.0
+2019/20,Admission episodes for alcohol-related conditions (narrow),
+2020/21,Admission episodes for alcohol-related conditions (narrow),
+2008/09,Admission episodes for alcohol specific conditions (broad),2287.0
+2009/10,Admission episodes for alcohol specific conditions (broad),2390.0
+2010/11,Admission episodes for alcohol specific conditions (broad),2466.0
+2011/12,Admission episodes for alcohol specific conditions (broad),2653.0
+2012/13,Admission episodes for alcohol specific conditions (broad),2683.0
+2013/14,Admission episodes for alcohol specific conditions (broad),2640.0
+2014/15,Admission episodes for alcohol specific conditions (broad),2679.0
+2015/16,Admission episodes for alcohol specific conditions (broad),2771.0
+2016/17,Admission episodes for alcohol specific conditions (broad),2904.0
+2017/18,Admission episodes for alcohol specific conditions (broad),2931.0
+2018/19,Admission episodes for alcohol specific conditions (broad),3034.0
+2019/20,Admission episodes for alcohol specific conditions (broad),
+2020/21,Admission episodes for alcohol specific conditions (broad),
