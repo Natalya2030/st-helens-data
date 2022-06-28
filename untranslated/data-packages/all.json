@@ -33,7 +33,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-3-title"
+      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "3-3-2/data.csv",
@@ -55,7 +55,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-2-title"
+      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "3-3-3/data.csv",
@@ -77,7 +77,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-3-title"
+      "title": "Malaria incidence per 1,000 population"
     },
     {
       "path": "1-2-1/data.csv",
@@ -165,7 +165,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-2-title"
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
       "path": "3-b-1/data.csv",
@@ -218,7 +218,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-1-title"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "3-9-1/data.csv",
@@ -240,7 +240,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-1-title"
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "1-2-2/data.csv",
@@ -327,7 +327,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-2-title"
+      "title": "Neonatal mortality rate"
     },
     {
       "path": "2-2-2/data.csv",
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-2-title"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "2-1-2/data.csv",
@@ -462,7 +462,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-1-title"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
       "path": "3-a-1/data.csv",
@@ -495,7 +495,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-a-1-title"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "3-4-1/data.csv",
@@ -541,7 +541,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-1-title"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "3-7-1/data.csv",
@@ -563,7 +563,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-1-title"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "1-1-1/data.csv",
@@ -640,7 +640,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-c-1-title"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "3-7-2/data.csv",
@@ -662,7 +662,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-2-title"
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
       "path": "1-5-1/data.csv",
@@ -706,7 +706,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-2-title"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "3-2-1/data.csv",
@@ -746,7 +746,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-1-title"
+      "title": "Under‐five mortality rate"
     },
     {
       "path": "3-6-1/data.csv",
@@ -768,7 +768,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-1-title"
+      "title": "Death rate due to road traffic injuries"
     },
     {
       "path": "3-3-1/data.csv",
@@ -790,7 +790,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-1-title"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "8-2-1/data.csv",
