@@ -12,7 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Learning Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prime Areas Of Learning",
+                "Specific Areas Of Learning",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Learning sub-category (higher)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Communication and Language",
+                "Physical Development",
+                "Personal, Social and Emotional Development",
+                "Literacy",
+                "Mathematics",
+                "Understanding the World",
+                "Expressive arts and design",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Learning sub-category (lower)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1:ListeningandAttention",
+                "2:Understanding",
+                "3:Speaking",
+                "4:Movingandhandling",
+                "5:Healthandself-care",
+                "6:Self-confidenceandself-awareness",
+                "7:Managingfeelingsandbehaviour",
+                "8:MakingRelationships",
+                "9:Reading",
+                "10:Writing",
+                "11:Numbers",
+                "12:Shape,spaceandmeasures",
+                "13:PeopleandCommunities",
+                "14:TheWorld",
+                "15:Technology",
+                "16:exploringandusingmediaandmaterials",
+                "17:beingimaginative",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +89,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-1",
-  "title": "global_indicators.4-2-1-title"
+  "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
 }
