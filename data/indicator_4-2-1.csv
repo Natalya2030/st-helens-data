@@ -1,0 +1,547 @@
+Year,Gender,Learning Category,Learning sub-category (higher),Learning sub-category (lower),Value
+2013,All,Prime Areas Of Learning,,,67.4
+2013,All,Prime Areas Of Learning,Communication and Language,,72.7
+2013,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,61.8
+2013,All,Prime Areas Of Learning,Communication and Language,2: Understanding,63.9
+2013,All,Prime Areas Of Learning,Communication and Language,3: Speaking,64.7
+2013,All,Prime Areas Of Learning,Physical Development,,81.2
+2013,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,71.8
+2013,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,74.7
+2013,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,76.7
+2013,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,72.1
+2013,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,72.6
+2013,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,73.3
+2013,All,Prime Areas Of Learning,,,55.9
+2013,All,Prime Areas Of Learning,Literacy,,55.9
+2013,All,Specific Areas Of Learning,Literacy,9: Reading,63.4
+2013,All,Specific Areas Of Learning,Literacy,10: Writing,54.2
+2013,All,Specific Areas Of Learning,Mathematics,,55.2
+2013,All,Specific Areas Of Learning,Mathematics,11: Numbers,67.1
+2013,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",59.4
+2013,All,Specific Areas Of Learning,Understanding the World,,66.7
+2013,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,75.9
+2013,All,Specific Areas Of Learning,Understanding the World,14: The World,74
+2013,All,Specific Areas Of Learning,Understanding the World,15: Technology ,74.2
+2013,All,Specific Areas Of Learning,Expressive arts and design,,80.2
+2013,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,75.8
+2013,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,72.2
+2013,Girls,Prime Areas Of Learning,,,75.2
+2013,Girls,Prime Areas Of Learning,Communication and Language,,79.4
+2013,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.1
+2013,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,65.9
+2013,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,67
+2013,Girls,Prime Areas Of Learning,Physical Development,,88.2
+2013,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,74.1
+2013,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,76
+2013,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,83
+2013,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,74.1
+2013,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,76
+2013,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,75.9
+2013,Girls,Prime Areas Of Learning,,,64.8
+2013,Girls,Prime Areas Of Learning,Literacy,,64.8
+2013,Girls,Specific Areas Of Learning,Literacy,9: Reading,71.1
+2013,Girls,Specific Areas Of Learning,Literacy,10: Writing,56
+2013,Girls,Specific Areas Of Learning,Mathematics,,59.5
+2013,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,71.3
+2013,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",63.1
+2013,Girls,Specific Areas Of Learning,Understanding the World,,71.6
+2013,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,79.9
+2013,Girls,Specific Areas Of Learning,Understanding the World,14: The World,79
+2013,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,78.7
+2013,Girls,Specific Areas Of Learning,Expressive arts and design,,81
+2013,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,86.6
+2013,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,77.6
+2013,Boys,Prime Areas Of Learning,,,60.2
+2013,Boys,Prime Areas Of Learning,Communication and Language,,66.4
+2013,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,60.5
+2013,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,62.1
+2013,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,62.6
+2013,Boys,Prime Areas Of Learning,Physical Development,,74.8
+2013,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,69.5
+2013,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,73.6
+2013,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,70.8
+2013,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,70.2
+2013,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,69.5
+2013,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,70.9
+2013,Boys,Prime Areas Of Learning,,,47.7
+2013,Boys,Prime Areas Of Learning,Literacy,,47.7
+2013,Boys,Specific Areas Of Learning,Literacy,9: Reading,56.2
+2013,Boys,Specific Areas Of Learning,Literacy,10: Writing,52.6
+2013,Boys,Specific Areas Of Learning,Mathematics,,51.2
+2013,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,63.3
+2013,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",56
+2013,Boys,Specific Areas Of Learning,Understanding the World,,62.2
+2013,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,72.3
+2013,Boys,Specific Areas Of Learning,Understanding the World,14: The World,69.3
+2013,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,70
+2013,Boys,Specific Areas Of Learning,Expressive arts and design,,79.4
+2013,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,65.7
+2013,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,67.2
+2014,All,Prime Areas Of Learning,,,71.3
+2014,All,Prime Areas Of Learning,Communication and Language,,75.3
+2014,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.8
+2014,All,Prime Areas Of Learning,Communication and Language,2: Understanding,63.2
+2014,All,Prime Areas Of Learning,Communication and Language,3: Speaking,63
+2014,All,Prime Areas Of Learning,Physical Development,,83.9
+2014,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,70.8
+2014,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,73.2
+2014,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,79.3
+2014,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69.5
+2014,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,69.7
+2014,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,69.6
+2014,All,Prime Areas Of Learning,,,60.1
+2014,All,Prime Areas Of Learning,Literacy,,60.1
+2014,All,Specific Areas Of Learning,Literacy,9: Reading,66.2
+2014,All,Specific Areas Of Learning,Literacy,10: Writing,54.4
+2014,All,Specific Areas Of Learning,Mathematics,,56
+2014,All,Specific Areas Of Learning,Mathematics,11: Numbers,71.7
+2014,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",60
+2014,All,Specific Areas Of Learning,Understanding the World,,66.7
+2014,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,77.2
+2014,All,Specific Areas Of Learning,Understanding the World,14: The World,73.2
+2014,All,Specific Areas Of Learning,Understanding the World,15: Technology ,73.9
+2014,All,Specific Areas Of Learning,Expressive arts and design,,80
+2014,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,81.9
+2014,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,74.1
+2014,Girls,Prime Areas Of Learning,,,80.1
+2014,Girls,Prime Areas Of Learning,Communication and Language,,83.1
+2014,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.2
+2014,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,64.2
+2014,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,66.2
+2014,Girls,Prime Areas Of Learning,Physical Development,,90.5
+2014,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,72.4
+2014,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,73.2
+2014,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,85.6
+2014,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,70.3
+2014,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,69.4
+2014,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,68.8
+2014,Girls,Prime Areas Of Learning,,,69.4
+2014,Girls,Prime Areas Of Learning,Literacy,,69.4
+2014,Girls,Specific Areas Of Learning,Literacy,9: Reading,74.7
+2014,Girls,Specific Areas Of Learning,Literacy,10: Writing,60
+2014,Girls,Specific Areas Of Learning,Mathematics,,61
+2014,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,77.6
+2014,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",66.6
+2014,Girls,Specific Areas Of Learning,Understanding the World,,71.9
+2014,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,82.8
+2014,Girls,Specific Areas Of Learning,Understanding the World,14: The World,77.1
+2014,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,78.6
+2014,Girls,Specific Areas Of Learning,Expressive arts and design,,84
+2014,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,91.1
+2014,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,76.8
+2014,Boys,Prime Areas Of Learning,,,61.8
+2014,Boys,Prime Areas Of Learning,Communication and Language,,67
+2014,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.2
+2014,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,62.1
+2014,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,59.6
+2014,Boys,Prime Areas Of Learning,Physical Development,,76.9
+2014,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,69.2
+2014,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,73.2
+2014,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,72.6
+2014,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68.7
+2014,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,69.9
+2014,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,70.5
+2014,Boys,Prime Areas Of Learning,,,50.1
+2014,Boys,Prime Areas Of Learning,Literacy,,50.1
+2014,Boys,Specific Areas Of Learning,Literacy,9: Reading,57
+2014,Boys,Specific Areas Of Learning,Literacy,10: Writing,48.4
+2014,Boys,Specific Areas Of Learning,Mathematics,,50.6
+2014,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,65.4
+2014,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",53
+2014,Boys,Specific Areas Of Learning,Understanding the World,,61.1
+2014,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,71.2
+2014,Boys,Specific Areas Of Learning,Understanding the World,14: The World,69
+2014,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,68.9
+2014,Boys,Specific Areas Of Learning,Expressive arts and design,,75.8
+2014,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,72
+2014,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,71.2
+2015,All,Prime Areas Of Learning,,,71.8
+2015,All,Prime Areas Of Learning,Communication and Language,,77
+2015,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62
+2015,All,Prime Areas Of Learning,Communication and Language,2: Understanding,62.9
+2015,All,Prime Areas Of Learning,Communication and Language,3: Speaking,65.4
+2015,All,Prime Areas Of Learning,Physical Development,,84.6
+2015,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,69.7
+2015,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,72
+2015,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,80
+2015,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69.1
+2015,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,70
+2015,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,71.9
+2015,All,Prime Areas Of Learning,,,64.1
+2015,All,Prime Areas Of Learning,Literacy,,64.1
+2015,All,Specific Areas Of Learning,Literacy,9: Reading,68.9
+2015,All,Specific Areas Of Learning,Literacy,10: Writing,55
+2015,All,Specific Areas Of Learning,Mathematics,,58
+2015,All,Specific Areas Of Learning,Mathematics,11: Numbers,73.7
+2015,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",60.7
+2015,All,Specific Areas Of Learning,Understanding the World,,65.5
+2015,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,79.2
+2015,All,Specific Areas Of Learning,Understanding the World,14: The World,73.3
+2015,All,Specific Areas Of Learning,Understanding the World,15: Technology ,70.3
+2015,All,Specific Areas Of Learning,Expressive arts and design,,79.8
+2015,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,81.2
+2015,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,72.8
+2015,Girls,Prime Areas Of Learning,,,82
+2015,Girls,Prime Areas Of Learning,Communication and Language,,86
+2015,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.6
+2015,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,63.1
+2015,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,67.9
+2015,Girls,Prime Areas Of Learning,Physical Development,,92.7
+2015,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,70.7
+2015,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,72
+2015,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,87.3
+2015,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,67.6
+2015,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,71.7
+2015,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,71.7
+2015,Girls,Prime Areas Of Learning,,,75.6
+2015,Girls,Prime Areas Of Learning,Literacy,,75.6
+2015,Girls,Specific Areas Of Learning,Literacy,9: Reading,79.4
+2015,Girls,Specific Areas Of Learning,Literacy,10: Writing,58.4
+2015,Girls,Specific Areas Of Learning,Mathematics,,62.7
+2015,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,80.6
+2015,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",66.3
+2015,Girls,Specific Areas Of Learning,Understanding the World,,70.3
+2015,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,85.6
+2015,Girls,Specific Areas Of Learning,Understanding the World,14: The World,77.6
+2015,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,74.7
+2015,Girls,Specific Areas Of Learning,Expressive arts and design,,83.3
+2015,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,91.7
+2015,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,75.1
+2015,Boys,Prime Areas Of Learning,,,62.4
+2015,Boys,Prime Areas Of Learning,Communication and Language,,68.5
+2015,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,61.4
+2015,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,62.7
+2015,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,63
+2015,Boys,Prime Areas Of Learning,Physical Development,,76.9
+2015,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,68.7
+2015,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,72
+2015,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,73.2
+2015,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,70.6
+2015,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,68.4
+2015,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,72
+2015,Boys,Prime Areas Of Learning,,,53.3
+2015,Boys,Prime Areas Of Learning,Literacy,,53.3
+2015,Boys,Specific Areas Of Learning,Literacy,9: Reading,59
+2015,Boys,Specific Areas Of Learning,Literacy,10: Writing,51.8
+2015,Boys,Specific Areas Of Learning,Mathematics,,53.6
+2015,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,67.2
+2015,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",55.5
+2015,Boys,Specific Areas Of Learning,Understanding the World,,61
+2015,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,73.2
+2015,Boys,Specific Areas Of Learning,Understanding the World,14: The World,69.2
+2015,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,66.2
+2015,Boys,Specific Areas Of Learning,Expressive arts and design,,76.6
+2015,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,71.4
+2015,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,70.7
+2016,All,Prime Areas Of Learning,,,73.4
+2016,All,Prime Areas Of Learning,Communication and Language,,77.7
+2016,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.5
+2016,All,Prime Areas Of Learning,Communication and Language,2: Understanding,62.2
+2016,All,Prime Areas Of Learning,Communication and Language,3: Speaking,65.2
+2016,All,Prime Areas Of Learning,Physical Development,,83.6
+2016,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,69.3
+2016,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,70.3
+2016,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,80
+2016,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69.2
+2016,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,69.7
+2016,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,70.4
+2016,All,Prime Areas Of Learning,,,65.9
+2016,All,Prime Areas Of Learning,Literacy,,65.9
+2016,All,Specific Areas Of Learning,Literacy,9: Reading,69.7
+2016,All,Specific Areas Of Learning,Literacy,10: Writing,57.5
+2016,All,Specific Areas Of Learning,Mathematics,,58.9
+2016,All,Specific Areas Of Learning,Mathematics,11: Numbers,74.3
+2016,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",61.6
+2016,All,Specific Areas Of Learning,Understanding the World,,65.9
+2016,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,78.9
+2016,All,Specific Areas Of Learning,Understanding the World,14: The World,71.3
+2016,All,Specific Areas Of Learning,Understanding the World,15: Technology ,70.6
+2016,All,Specific Areas Of Learning,Expressive arts and design,,80.3
+2016,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,82.1
+2016,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,72
+2016,Girls,Prime Areas Of Learning,,,82.1
+2016,Girls,Prime Areas Of Learning,Communication and Language,,85.4
+2016,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.1
+2016,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,63.3
+2016,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,68.6
+2016,Girls,Prime Areas Of Learning,Physical Development,,90
+2016,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,70
+2016,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,70.4
+2016,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,88.1
+2016,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,70.9
+2016,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,72.6
+2016,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,71.9
+2016,Girls,Prime Areas Of Learning,,,75.2
+2016,Girls,Prime Areas Of Learning,Literacy,,75.2
+2016,Girls,Specific Areas Of Learning,Literacy,9: Reading,77.7
+2016,Girls,Specific Areas Of Learning,Literacy,10: Writing,61.5
+2016,Girls,Specific Areas Of Learning,Mathematics,,62.5
+2016,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,80.1
+2016,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",68
+2016,Girls,Specific Areas Of Learning,Understanding the World,,70.3
+2016,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,84.9
+2016,Girls,Specific Areas Of Learning,Understanding the World,14: The World,75.9
+2016,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,76
+2016,Girls,Specific Areas Of Learning,Expressive arts and design,,83.5
+2016,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,90.9
+2016,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,75.8
+2016,Boys,Prime Areas Of Learning,,,65.2
+2016,Boys,Prime Areas Of Learning,Communication and Language,,70.4
+2016,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.9
+2016,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,61
+2016,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,62
+2016,Boys,Prime Areas Of Learning,Physical Development,,77.6
+2016,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,68.7
+2016,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,70.2
+2016,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,72.3
+2016,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,67.6
+2016,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,66.9
+2016,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,68.9
+2016,Boys,Prime Areas Of Learning,,,57.1
+2016,Boys,Prime Areas Of Learning,Literacy,,57.1
+2016,Boys,Specific Areas Of Learning,Literacy,9: Reading,62.2
+2016,Boys,Specific Areas Of Learning,Literacy,10: Writing,53.8
+2016,Boys,Specific Areas Of Learning,Mathematics,,55.5
+2016,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,68.8
+2016,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",55.6
+2016,Boys,Specific Areas Of Learning,Understanding the World,,61.7
+2016,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,73.2
+2016,Boys,Specific Areas Of Learning,Understanding the World,14: The World,67
+2016,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,65.4
+2016,Boys,Specific Areas Of Learning,Expressive arts and design,,77.2
+2016,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,73.9
+2016,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,68.4
+2017,All,Prime Areas Of Learning,,,75.4
+2017,All,Prime Areas Of Learning,Communication and Language,,79.4
+2017,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62
+2017,All,Prime Areas Of Learning,Communication and Language,2: Understanding,63.1
+2017,All,Prime Areas Of Learning,Communication and Language,3: Speaking,65.5
+2017,All,Prime Areas Of Learning,Physical Development,,83.3
+2017,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,71.7
+2017,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,71.5
+2017,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,81.1
+2017,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68.5
+2017,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,67.7
+2017,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,69.9
+2017,All,Prime Areas Of Learning,,,65.9
+2017,All,Prime Areas Of Learning,Literacy,,65.9
+2017,All,Specific Areas Of Learning,Literacy,9: Reading,69.2
+2017,All,Specific Areas Of Learning,Literacy,10: Writing,57.3
+2017,All,Specific Areas Of Learning,Mathematics,,59.6
+2017,All,Specific Areas Of Learning,Mathematics,11: Numbers,75.1
+2017,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",62.2
+2017,All,Specific Areas Of Learning,Understanding the World,,66.5
+2017,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,80.7
+2017,All,Specific Areas Of Learning,Understanding the World,14: The World,71.2
+2017,All,Specific Areas Of Learning,Understanding the World,15: Technology ,70.6
+2017,All,Specific Areas Of Learning,Expressive arts and design,,78.9
+2017,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,81.5
+2017,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,71.5
+2017,Girls,Prime Areas Of Learning,,,82.3
+2017,Girls,Prime Areas Of Learning,Communication and Language,,84.4
+2017,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,61
+2017,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,63.3
+2017,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,67.1
+2017,Girls,Prime Areas Of Learning,Physical Development,,89
+2017,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,71.1
+2017,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,71.2
+2017,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,86.8
+2017,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69
+2017,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,68.7
+2017,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,69.7
+2017,Girls,Prime Areas Of Learning,,,74.7
+2017,Girls,Prime Areas Of Learning,Literacy,,74.7
+2017,Girls,Specific Areas Of Learning,Literacy,9: Reading,76.7
+2017,Girls,Specific Areas Of Learning,Literacy,10: Writing,61.5
+2017,Girls,Specific Areas Of Learning,Mathematics,,63.8
+2017,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,79
+2017,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",65.8
+2017,Girls,Specific Areas Of Learning,Understanding the World,,69.6
+2017,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,84.6
+2017,Girls,Specific Areas Of Learning,Understanding the World,14: The World,73.8
+2017,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,74.6
+2017,Girls,Specific Areas Of Learning,Expressive arts and design,,81.9
+2017,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,90
+2017,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,73.8
+2017,Boys,Prime Areas Of Learning,,,68.8
+2017,Boys,Prime Areas Of Learning,Communication and Language,,74.6
+2017,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63
+2017,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,62.8
+2017,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,64
+2017,Boys,Prime Areas Of Learning,Physical Development,,77.8
+2017,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,72.2
+2017,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,71.9
+2017,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,75.6
+2017,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68
+2017,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,66.7
+2017,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,70.1
+2017,Boys,Prime Areas Of Learning,,,57.4
+2017,Boys,Prime Areas Of Learning,Literacy,,57.4
+2017,Boys,Specific Areas Of Learning,Literacy,9: Reading,61.9
+2017,Boys,Specific Areas Of Learning,Literacy,10: Writing,53.3
+2017,Boys,Specific Areas Of Learning,Mathematics,,55.5
+2017,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,71.4
+2017,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",58.8
+2017,Boys,Specific Areas Of Learning,Understanding the World,,63.6
+2017,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,77
+2017,Boys,Specific Areas Of Learning,Understanding the World,14: The World,68.8
+2017,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,66.8
+2017,Boys,Specific Areas Of Learning,Expressive arts and design,,76
+2017,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,73.3
+2017,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,69.2
+2018,All,Prime Areas Of Learning,,,76.3
+2018,All,Prime Areas Of Learning,Communication and Language,,62.2
+2018,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.2
+2018,All,Prime Areas Of Learning,Communication and Language,2: Understanding,62.1
+2018,All,Prime Areas Of Learning,Communication and Language,3: Speaking,64.3
+2018,All,Prime Areas Of Learning,Physical Development,,85.5
+2018,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,71.5
+2018,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,71.9
+2018,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,82.4
+2018,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69.8
+2018,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,71.3
+2018,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,73.1
+2018,All,Prime Areas Of Learning,,,68.1
+2018,All,Prime Areas Of Learning,Literacy,,70.7
+2018,All,Specific Areas Of Learning,Literacy,9: Reading,58.6
+2018,All,Specific Areas Of Learning,Literacy,10: Writing,59.8
+2018,All,Specific Areas Of Learning,Mathematics,,76.7
+2018,All,Specific Areas Of Learning,Mathematics,11: Numbers,62.7
+2018,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",66.5
+2018,All,Specific Areas Of Learning,Understanding the World,,81
+2018,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,70.8
+2018,All,Specific Areas Of Learning,Understanding the World,14: The World,70.7
+2018,All,Specific Areas Of Learning,Understanding the World,15: Technology ,78.6
+2018,All,Specific Areas Of Learning,Expressive arts and design,,84.3
+2018,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,71.9
+2018,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,72.7
+2018,Girls,Prime Areas Of Learning,,,83.1
+2018,Girls,Prime Areas Of Learning,Communication and Language,,84.9
+2018,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,63.5
+2018,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,64.7
+2018,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,66
+2018,Girls,Prime Areas Of Learning,Physical Development,,91.6
+2018,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,41.2
+2018,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,71
+2018,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,87.8
+2018,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,70
+2018,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,71.7
+2018,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,72.8
+2018,Girls,Prime Areas Of Learning,,,76.1
+2018,Girls,Prime Areas Of Learning,Literacy,,78
+2018,Girls,Specific Areas Of Learning,Literacy,9: Reading,61.9
+2018,Girls,Specific Areas Of Learning,Literacy,10: Writing,63.9
+2018,Girls,Specific Areas Of Learning,Mathematics,,80.9
+2018,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,67.5
+2018,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",71.9
+2018,Girls,Specific Areas Of Learning,Understanding the World,,85.6
+2018,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,73.7
+2018,Girls,Specific Areas Of Learning,Understanding the World,14: The World,74.6
+2018,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,82.2
+2018,Girls,Specific Areas Of Learning,Expressive arts and design,,90.9
+2018,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,73.9
+2018,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,74.7
+2018,Boys,Prime Areas Of Learning,,,70.1
+2018,Boys,Prime Areas Of Learning,Communication and Language,,73.9
+2018,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,60.9
+2018,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,59.7
+2018,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,62.7
+2018,Boys,Prime Areas Of Learning,Physical Development,,79.9
+2018,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,70.9
+2018,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,72.8
+2018,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,77.4
+2018,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,69.7
+2018,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,70.9
+2018,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,73.4
+2018,Boys,Prime Areas Of Learning,,,60.8
+2018,Boys,Prime Areas Of Learning,Literacy,,64
+2018,Boys,Specific Areas Of Learning,Literacy,9: Reading,55.5
+2018,Boys,Specific Areas Of Learning,Literacy,10: Writing,56
+2018,Boys,Specific Areas Of Learning,Mathematics,,72.7
+2018,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,58.2
+2018,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",61.6
+2018,Boys,Specific Areas Of Learning,Understanding the World,,76.8
+2018,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,68.1
+2018,Boys,Specific Areas Of Learning,Understanding the World,14: The World,67.1
+2018,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,75.2
+2018,Boys,Specific Areas Of Learning,Expressive arts and design,,78
+2018,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,70.1
+2018,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,70.9
+2019,All,Prime Areas Of Learning,,,76.4
+2019,All,Prime Areas Of Learning,Communication and Language,,79.7
+2019,All,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.3
+2019,All,Prime Areas Of Learning,Communication and Language,2: Understanding,62.9
+2019,All,Prime Areas Of Learning,Communication and Language,3: Speaking,66.2
+2019,All,Prime Areas Of Learning,Physical Development,,85.4
+2019,All,Prime Areas Of Learning,Physical Development,4: Moving and handling,72
+2019,All,Prime Areas Of Learning,Physical Development,5: Health and self-care ,70.8
+2019,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",,82
+2019,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68.7
+2019,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,70.8
+2019,All,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,71.3
+2019,All,Prime Areas Of Learning,,,69.3
+2019,All,Prime Areas Of Learning,Literacy,,72.2
+2019,All,Specific Areas Of Learning,Literacy,9: Reading,61.9
+2019,All,Specific Areas Of Learning,Literacy,10: Writing,63
+2019,All,Specific Areas Of Learning,Mathematics,,77.3
+2019,All,Specific Areas Of Learning,Mathematics,11: Numbers,63.3
+2019,All,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",67.3
+2019,All,Specific Areas Of Learning,Understanding the World,,80.9
+2019,All,Specific Areas Of Learning,Understanding the World,13: People and Communities,70.3
+2019,All,Specific Areas Of Learning,Understanding the World,14: The World,67.5
+2019,All,Specific Areas Of Learning,Understanding the World,15: Technology ,73.7
+2019,All,Specific Areas Of Learning,Expressive arts and design,,83.4
+2019,All,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,71.6
+2019,All,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,71.5
+2019,Girls,Prime Areas Of Learning,,,83.1
+2019,Girls,Prime Areas Of Learning,Communication and Language,,85.3
+2019,Girls,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,61.7
+2019,Girls,Prime Areas Of Learning,Communication and Language,2: Understanding,62.6
+2019,Girls,Prime Areas Of Learning,Communication and Language,3: Speaking,66.7
+2019,Girls,Prime Areas Of Learning,Physical Development,,90.8
+2019,Girls,Prime Areas Of Learning,Physical Development,4: Moving and handling,73
+2019,Girls,Prime Areas Of Learning,Physical Development,5: Health and self-care ,69
+2019,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",,88
+2019,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68.8
+2019,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,71.2
+2019,Girls,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,70.7
+2019,Girls,Prime Areas Of Learning,,,76.4
+2019,Girls,Prime Areas Of Learning,Literacy,,78.5
+2019,Girls,Specific Areas Of Learning,Literacy,9: Reading,65.4
+2019,Girls,Specific Areas Of Learning,Literacy,10: Writing,66
+2019,Girls,Specific Areas Of Learning,Mathematics,,81.2
+2019,Girls,Specific Areas Of Learning,Mathematics,11: Numbers,68.5
+2019,Girls,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",71.3
+2019,Girls,Specific Areas Of Learning,Understanding the World,,85
+2019,Girls,Specific Areas Of Learning,Understanding the World,13: People and Communities,72.3
+2019,Girls,Specific Areas Of Learning,Understanding the World,14: The World,69.6
+2019,Girls,Specific Areas Of Learning,Understanding the World,15: Technology ,77.6
+2019,Girls,Specific Areas Of Learning,Expressive arts and design,,90.4
+2019,Girls,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,73.6
+2019,Girls,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,73.5
+2019,Boys,Prime Areas Of Learning,,,69.9
+2019,Boys,Prime Areas Of Learning,Communication and Language,,74.2
+2019,Boys,Prime Areas Of Learning,Communication and Language,1: Listening and Attention,62.8
+2019,Boys,Prime Areas Of Learning,Communication and Language,2: Understanding,63.2
+2019,Boys,Prime Areas Of Learning,Communication and Language,3: Speaking,65.6
+2019,Boys,Prime Areas Of Learning,Physical Development,,80.1
+2019,Boys,Prime Areas Of Learning,Physical Development,4: Moving and handling,70.9
+2019,Boys,Prime Areas Of Learning,Physical Development,5: Health and self-care ,72.7
+2019,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",,76
+2019,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",6: Self-confidence and self-awareness,68.6
+2019,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,70.5
+2019,Boys,Prime Areas Of Learning,"Personal, Social and Emotional Development",8: Making Relationships,71.9
+2019,Boys,Prime Areas Of Learning,,,62.4
+2019,Boys,Prime Areas Of Learning,Literacy,,66.1
+2019,Boys,Specific Areas Of Learning,Literacy,9: Reading,73.4
+2019,Boys,Specific Areas Of Learning,Literacy,10: Writing,60.1
+2019,Boys,Specific Areas Of Learning,Mathematics,,73.4
+2019,Boys,Specific Areas Of Learning,Mathematics,11: Numbers,58.2
+2019,Boys,Specific Areas Of Learning,Mathematics,"12: Shape, space and measures",63.4
+2019,Boys,Specific Areas Of Learning,Understanding the World,,76.9
+2019,Boys,Specific Areas Of Learning,Understanding the World,13: People and Communities,63.8
+2019,Boys,Specific Areas Of Learning,Understanding the World,14: The World,65.5
+2019,Boys,Specific Areas Of Learning,Understanding the World,15: Technology ,69.9
+2019,Boys,Specific Areas Of Learning,Expressive arts and design,,76.5
+2019,Boys,Specific Areas Of Learning,Expressive arts and design,16: exploring and using media and materials,69.7
+2019,Boys,Specific Areas Of Learning,Expressive arts and design,17: being imaginative,69.6
