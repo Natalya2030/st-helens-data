@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-Age,3,10
+Age,4,12
 BMI,1,2
 Cause,1,2
 Gender,3,7
@@ -9,7 +9,7 @@ Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
 Observation Status,1,1
 Renewable energy source,1,5
-Sex,3,2
+Sex,4,2
 Sub-category,2,2
 Subject,1,2
 Type of Disease,1,4
