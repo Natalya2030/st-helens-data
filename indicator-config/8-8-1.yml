@@ -1,5 +1,7 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+composite_breakdown_label: ''
+computation_units: >-
+  Rate of fatal injuries per 100,000 workers and non-fatal occupational injuries
+  per 100,000 employees
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -15,18 +17,29 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: ''
+    unit: Rate of fatal injuries
+    minimum: 0
+    maximum: 2.5
+  - series: ''
+    unit: Rate of reported non-fatal injuries
+    minimum: 0
+    maximum: 350
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-8-1-title
+graph_title: 'Rate of fatal and non-fatal occupational injuries per 100,000 persons'
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.8-8-1-title
-indicator_number: '8.8.1'
-national_geographical_coverage: ''
+indicator_available: 'Rate of fatal and non-fatal occupational injuries '
+indicator_name: >-
+  Fatal and non-fatal occupational injuries per 100,000 workers, by sex and
+  migrant status
+indicator_number: 8.8.1
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
