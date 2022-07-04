@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Renewable energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Photovoltaics",
+                "Onshore Wind",
+                "Lanfill Gas",
+                "Sewage Gas",
+                "Plant Biomass",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-1",
-  "title": "global_indicators.7-2-1-title"
+  "title": "Renewable energy share in the total final energy consumption"
 }

@@ -1,1 +1,43 @@
-Year,Value
+Year,Renewable energy source,Value
+2020,,23.7
+2019,,23.6
+2018,,23.5
+2017,,23.3
+2016,,23.1
+2015,,22.5
+2014,,19.0
+2020,Photovoltaics,7.61
+2019,Photovoltaics,7.5
+2018,Photovoltaics,7.4
+2017,Photovoltaics,7.2
+2016,Photovoltaics,7.0
+2015,Photovoltaics,6.5
+2014,Photovoltaics,4.1
+2020,Onshore Wind,1.022
+2019,Onshore Wind,1.0
+2018,Onshore Wind,1.0
+2017,Onshore Wind,1.0
+2016,Onshore Wind,1.0
+2015,Onshore Wind,1.0
+2014,Onshore Wind,1.0
+2020,Lanfill Gas,14.233
+2019,Lanfill Gas,14.2
+2018,Lanfill Gas,14.2
+2017,Lanfill Gas,14.2
+2016,Lanfill Gas,14.2
+2015,Lanfill Gas,14.2
+2014,Lanfill Gas,14.2
+2020,Sewage Gas,0.532
+2019,Sewage Gas,0.5
+2018,Sewage Gas,0.5
+2017,Sewage Gas,0.5
+2016,Sewage Gas,0.5
+2015,Sewage Gas,0.5
+2014,Sewage Gas,0.5
+2020,Plant Biomass,0.3
+2019,Plant Biomass,0.3
+2018,Plant Biomass,0.3
+2017,Plant Biomass,0.3
+2016,Plant Biomass,0.3
+2015,Plant Biomass,0.3
+2014,Plant Biomass,0.3

@@ -11,13 +11,28 @@
       "schema": {
         "fields": [
           {
+            "name": "Renewable energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lanfill Gas",
+                "Onshore Wind",
+                "Photovoltaics",
+                "Plant Biomass",
+                "Sewage Gas"
+              ]
+            },
+            "title": "Renewable energy source"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
