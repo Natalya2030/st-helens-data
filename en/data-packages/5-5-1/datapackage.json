@@ -11,13 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Type of representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Councillors (May 2022)",
+                "Mayor's cabinet (Pre May 2022 Election)",
+                "Members of Parliament MPs (2019)"
+              ]
+            },
+            "title": "Type of representative"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

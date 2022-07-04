@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Members of Parliament MPs (2019)",
+                "Councillors (May 2022)",
+                "Mayor's cabinet (Pre May 2022 Election)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
