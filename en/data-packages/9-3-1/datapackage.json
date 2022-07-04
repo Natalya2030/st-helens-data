@@ -11,13 +11,68 @@
       "schema": {
         "fields": [
           {
+            "name": "Industry Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Accommodation and food service activities",
+                "Activities of households",
+                "Administrative and support service activities",
+                "Agriculture, mining, electricity, gas, water and waste",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Other service activities",
+                "Public administration and defence",
+                "Real estate activities",
+                "Transportation and storage",
+                "Wholesale and retail trade; repair of motor vehicles"
+              ]
+            },
+            "title": "Industry Sector"
+          },
+          {
+            "name": "Industry Sub Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Arts, entertainment and recreation",
+                "Human health and residential care activities",
+                "Manufacture of food, beverages, textiles and clothing",
+                "Manufacture of metals, electrical products and machinery",
+                "Manufacture of wood, petroleum, chemicals and minerals",
+                "Other manufacturing, repair and installation",
+                "Warehousing, transport support, postal and courier activities"
+              ]
+            },
+            "title": "Industry Sub Category"
+          },
+          {
+            "name": "Production/Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Production sector",
+                "Services sector"
+              ]
+            },
+            "title": "Production/Services"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

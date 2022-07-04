@@ -12,7 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Unnamed: 2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +33,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-1",
-  "title": "global_indicators.9-5-1-title"
+  "title": "Research and development expenditure as a proportion of GDP"
 }
