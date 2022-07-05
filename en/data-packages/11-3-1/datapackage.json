@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fatal",
+                "Non-Fatal"
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "11-3-1",
-  "title": "Ratio of land consumption rate to population growth rate"
+  "title": "11-3-1"
 }

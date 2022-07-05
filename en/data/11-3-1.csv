@@ -1,1 +1,15 @@
-Year,Value
+Year,Type,Value
+2014/15,Non-Fatal,556.0
+2015/16,Non-Fatal,426.0
+2016/17,Non-Fatal,383.0
+2017/18,Non-Fatal,491.0
+2018/19,Non-Fatal,436.0
+2019/20,Non-Fatal,414.0
+2020/21,Non-Fatal,297.0
+2014/15,Fatal,0.0
+2015/16,Fatal,0.0
+2016/17,Fatal,1.66
+2017/18,Fatal,0.0
+2018/19,Fatal,1.73
+2019/20,Fatal,1.71
+2020/21,Fatal,0.0

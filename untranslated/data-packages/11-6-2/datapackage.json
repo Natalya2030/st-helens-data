@@ -12,11 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Site",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "St Helens  Linkway",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 Moderate",
+                "2 Moderate",
+                "3 Moderate",
+                "1 High",
+                "2 High",
+                "3 High",
+                "Very High",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-2",
-  "title": "global_indicators.11-6-2-title"
+  "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
 }
