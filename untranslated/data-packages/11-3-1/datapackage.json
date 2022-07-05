@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-Fatal",
-                "Fatal",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

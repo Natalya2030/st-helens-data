@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Fatal",
-                "Non-Fatal"
-              ]
-            },
-            "title": "Type"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

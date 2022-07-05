@@ -463,42 +463,6 @@
       "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Fatal",
-                "Non-Fatal"
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "11-3-1"
-    },
-    {
       "path": "5-5-2/data.csv",
       "name": "5-5-2",
       "profile": "tabular-data-resource",
@@ -3245,6 +3209,30 @@
         ]
       },
       "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+    },
+    {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-3-1"
     },
     {
       "path": "15-a-1/data.csv",
