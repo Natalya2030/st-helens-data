@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brown residual waste bin",
+                "Separate weekly household food waste collection"
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

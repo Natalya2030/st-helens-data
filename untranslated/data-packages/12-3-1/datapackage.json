@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Brown residual waste bin",
+                "Separate weekly household food waste collection",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
