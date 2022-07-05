@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Unnamed: 1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Live Births",
+                "Deaths",
+                "Female Deaths",
+                "Male Deaths",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number",
+                "Per 100,000 People",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

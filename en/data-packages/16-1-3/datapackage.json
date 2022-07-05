@@ -11,13 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "Offence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Sexual offences",
+                "Stalking and harassment",
+                "Violence with injury",
+                "Violence without injury"
+              ]
+            },
+            "title": "Offence"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

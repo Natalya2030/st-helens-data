@@ -1,9 +1,9 @@
 Disaggregation,Number of indicators,Number of values
-Age,4,12
+Age,5,12
 BMI,1,2
 Cause,1,2
 Disposal Method,1,5
-Gender,3,7
+Gender,4,13
 Income category,2,2
 Industry Sector,1,16
 Industry Sub Category,1,7
@@ -11,9 +11,10 @@ Learning Category,1,2
 Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
 Observation Status,1,1
+Offence,1,4
 Production/Services,1,2
 Renewable energy source,1,5
-Sex,5,2
+Sex,7,2
 Site,1,1
 Sub-category,2,2
 Subject,1,2

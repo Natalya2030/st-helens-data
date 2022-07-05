@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all males employed in public sector as % of all males in employment",
+                "all males employed in private sector as % of all males in employment",
+                "all females employed in public sector as % of all females in employment",
+                "all females employed in private sector as % of all females in employment",
+                "all persons employed in public sector as % of all persons in employment",
+                "all persons employed in private sector as % of all persons in employment",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "16-7-1",
-  "title": "global_indicators.16-7-1-title"
+  "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
 }
