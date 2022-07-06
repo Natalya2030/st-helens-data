@@ -1,8 +1,8 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -17,16 +17,37 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.15-2-1-title
+graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.15-2-1-title
-indicator_number: '15.2.1'
-national_geographical_coverage: ''
-page_content: ''
+indicator_available: 'Relevant St Helens policies and organisations '
+indicator_name: >-
+  Progress towards sustainable forest management
+  national_geographical_coverage: Merseyside and Cheshire
+page_content: >-
+  **Non-statistical indicator**
+  
+  We have identified the following laws, policies and strategy plans in place
+  that are relevant to this indicator -
+  
+  St Helens is part of the Mersey Forest.
+  The Mersey Forest is a growing network of trees and woodlands covering 1,370 km2 
+  of Merseyside and North Cheshire, which is home to 1.7 million people.
+
+  Mersey Forest Plan 9m trees planted since 1991 
+  Achieved three times more tree planting than the England average
+  Created over 3,000 hectares of woodland – that's the same as 4,322 full-sized football 
+  pitches, or 24,000 Olympic swimming pools
+  Absorbed 524,574 tonnes of carbon dioxide – a clear impact on climate change.  
+
+  Case Study Bold Forest Park a cluster of community woodlands spanning 220 hectares, 
+  including Sutton Manor, Clock Face Country Park and Griffin Wood, has dramatically 
+  improved the image of the area and offers a future source of economic development.
+  
+  [Source: Mersey Forest Delivery Plan PDF](https://www.merseyforest.org.uk/mersey_forest_delivery_plan_final.pdf)
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
