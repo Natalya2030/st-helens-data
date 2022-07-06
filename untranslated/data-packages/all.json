@@ -985,7 +985,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-19-2-title"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years and (b) have achieved 100% birth registration and 80% death registration "
     },
     {
       "path": "3-2-2/data.csv",
@@ -2365,7 +2365,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-6-1-title"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants (any speed)"
     },
     {
       "path": "8-2-1/data.csv",
@@ -4763,7 +4763,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-title"
+      "title": "Progress towards sustainable forest management"
     },
     {
       "path": "6-4-2/data.csv",
