@@ -12,7 +12,85 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wind",
+                "Wave and tidal",
+                "Solar PV",
+                "Hydro",
+                "Landfill gas",
+                "Sewage gas",
+                "Other bioenergy",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Onshore Wind",
+                "Offshore Wind",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AD",
+                "Biomass and waste",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "254.0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "36.5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "217.5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3,515.20",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

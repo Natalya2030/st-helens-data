@@ -657,6 +657,30 @@
       "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-3-1"
+    },
+    {
       "path": "5-5-2/data.csv",
       "name": "5-5-2",
       "profile": "tabular-data-resource",
@@ -1998,6 +2022,115 @@
         ]
       },
       "title": "Forest area as a proportion of total land area"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AD",
+                "Biomass and waste"
+              ]
+            },
+            "title": "Bioenergy"
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hydro",
+                "Landfill gas",
+                "Other bioenergy",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind"
+              ]
+            },
+            "title": "Renewable Source"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "254.0"
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "36.5"
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "217.5"
+              ]
+            },
+            "title": "Unnamed: 7"
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "3,515.20"
+              ]
+            },
+            "title": "Unnamed: 8"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Offshore Wind",
+                "Onshore Wind"
+              ]
+            },
+            "title": "Wind"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3637,30 +3770,6 @@
         ]
       },
       "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "11-3-1"
     },
     {
       "path": "15-a-1/data.csv",
@@ -5629,30 +5738,6 @@
         ]
       },
       "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "10-3-1/data.csv",

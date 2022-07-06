@@ -11,13 +11,98 @@
       "schema": {
         "fields": [
           {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AD",
+                "Biomass and waste"
+              ]
+            },
+            "title": "Bioenergy"
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hydro",
+                "Landfill gas",
+                "Other bioenergy",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind"
+              ]
+            },
+            "title": "Renewable Source"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "254.0"
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "36.5"
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "217.5"
+              ]
+            },
+            "title": "Unnamed: 7"
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "3,515.20"
+              ]
+            },
+            "title": "Unnamed: 8"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Offshore Wind",
+                "Onshore Wind"
+              ]
+            },
+            "title": "Wind"
+          },
+          {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
