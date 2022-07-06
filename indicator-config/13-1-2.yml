@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_available: Relevant St Helens policies and organisations
+indicator_available: 'Relevant St Helens policies and organisations '
 indicator_name: >- Number of countries that adopt and implement national disaster 
 risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
 indicator_number: 13.1.2
@@ -31,9 +31,11 @@ page_content: >-
   
   We have identified the following laws, policies and strategy plans in place on
   civil contingencies that are relevant to this indicator at the UK level -
+  
+  
   [Civil Contingencies Act
-  2004](https://www.legislation.gov.uk/ukpga/2004/36/introduction) – a framework
-  for civil protection in the UK.
+  2004](https://www.legislation.gov.uk/ukpga/2004/36/introduction)
+  – a framework for civil protection in the UK.
   
   
   [UK national guidance on risk
@@ -43,7 +45,7 @@ page_content: >-
   
   
   [National Risk Register
-  (NRR)](https://www.gov.uk/government/collections/national-risk-register-of-civil-emergencies)
+  NRR](https://www.gov.uk/government/collections/national-risk-register-of-civil-emergencies)
   - This document series brings together all issues of the National Risk
   Register of Civil Emergencies from 2008 to 2017.
   
