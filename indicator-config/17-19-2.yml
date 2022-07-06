@@ -21,9 +21,9 @@ graph_title: Live Births and Deaths in St Helens
 graph_titles: []
 graph_type: line
 indicator_available: Live Births and Deaths in St Helens
-indicator_name: Proportion of countries that (a) have conducted at least one
-population and housing census in the last 10 years and (b) have achieved 100% 
-birth registration and 80% death registration
+indicator_name: 'Proportion of countries that (a) have conducted at least one
+  population and housing census in the last 10 years and (b) have achieved 100% 
+  birth registration and 80% death registration '
 indicator_number: 17.19.1
 national_geographical_coverage: UK
 page_content: ''
