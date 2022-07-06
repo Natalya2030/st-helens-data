@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Work",
+                "Home",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Average",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Median",
+                "Mean",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

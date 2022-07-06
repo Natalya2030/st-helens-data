@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Average",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Mean",
+                "Median"
+              ]
+            },
+            "title": "Average"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Home",
+                "Work"
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
