@@ -1435,6 +1435,28 @@
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of births attended by skilled health personnel"
+    },
+    {
       "path": "9-3-1/data.csv",
       "name": "9-3-1",
       "profile": "tabular-data-resource",
@@ -5436,28 +5458,6 @@
         ]
       },
       "title": "global_indicators.5-6-1-title"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of births attended by skilled health personnel"
     },
     {
       "path": "17-7-1/data.csv",
