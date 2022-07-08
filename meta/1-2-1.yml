@@ -68,10 +68,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  People in relative low income – living in households with income below 60% of
+  *People in relative low income* – living in households with income below 60% of
   the median in that year.
-  People in absolute low income – living in households with income below 60% of
+  
+  
+  *People in absolute low income* – living in households with income below 60% of
   (inflation-adjusted) median income in some base year, usually 2010/11.
+  
+  
   Before Housing Costs figures count the number of individuals in poverty based
   on their household income before deducting housing costs; After Housing Costs
   figures are based on household income after deducting housing costs.
