@@ -120,9 +120,9 @@ national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
 source_organisation_1: Public Health England
 source_periodicity_1: Annual
 source_earliest_available_1: 2007/08
-source_geographical_coverage_1: Liverpool
+source_geographical_coverage_1: St Helens
 source_url_1: >-
-  https://fingertips.phe.org.uk/search/underweight#page/4/gid/1/pat/6/ati/301/are/E08000012/iid/90316/age/200/sex/4/cid/4/tbm/1/page-options/car-do-0
+  https://fingertips.phe.org.uk/national-child-measurement-programme#page/4/gid/8000011/pat/6/ati/301/are/E08000013/iid/20601/age/200/sex/4/cat/-1/ctp/-1/yrr/1/cid/4/tbm/1
 source_url_text_1: 'Public Health Profiles - Reception: Prevalence of underweight'
 source_release_date_1: ''
 source_next_release_1: ''
