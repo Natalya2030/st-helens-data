@@ -89,9 +89,9 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
-  This data represents the United Kingdom as opposed to Liverpool. Since UK data
+  This data represents the United Kingdom as opposed to St Helens. Since UK data
   does not disaggregate to local level, and statistics are close to 100%, it has
-  been assumed that Liverpool data would mirror this.
+  been assumed that St Helens data would mirror this.
 
 
   A framework for measuring faecal waste flows and safety factors has been
