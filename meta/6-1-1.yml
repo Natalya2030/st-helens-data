@@ -107,8 +107,8 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
-  This data represents the United Kingdom as opposed to Liverpool. Since UK data
-  is at 100%, this has been extrapolated to assume that Liverpool data would
+  This data represents the United Kingdom as opposed to St Helens. Since UK data
+  is at 100%, this has been extrapolated to assume that St Helens data would
   mirror this. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
