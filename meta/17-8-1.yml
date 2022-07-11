@@ -48,7 +48,8 @@ COMPARABILITY__GLOBAL: ''
 OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
-  'Goal 12: Ensure sustainable consumption and production patterns'
+  Goal 17: Strengthen the means of implementation and revitalize the Global
+  Partnership for Sustainable Development
 SDG_TARGET: >-
   Target 17.8: Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology
 SDG_INDICATOR: >-
@@ -57,20 +58,20 @@ SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: United Nations Economic Commission for Europe (UNECE)
+CONTACT_ORGANISATION: Office for National Statistics
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
 CONTACT_PHONE: ''
 CONTACT_MAIL: ''
-CONTACT_EMAIL: unece_info@un.org
+CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Percentage of adults (over 16) who have used the internet in the last three months]
+  [Percentage of adults (over 16) who have used the internet in the last three months](https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/datasets/internetusers)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
