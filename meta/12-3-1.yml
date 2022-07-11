@@ -82,9 +82,7 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: >-
-  This data represents the UK as opposed to St Helens. Since the UK statistics
-  are 100%, it has been assumed that St Helens statistics will also be 100%. 
+REC_USE_LIM: ''
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
