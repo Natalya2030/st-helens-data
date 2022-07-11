@@ -2,7 +2,7 @@ composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -26,11 +26,7 @@ indicator_name: 'Proportion of countries that (a) have conducted at least one
   birth registration and 80% death registration '
 indicator_number: 17.19.1
 national_geographical_coverage: UK
-page_content: >-
-  **Non-statistical Data**
-  
-  
-  Legislation  - The Registration of Births, Deaths and Marriages Regulations 1968 which came into operation on 1 April 1969.
+page_content: ''
 permalink: ''
 precision: []
 reporting_status: complete
