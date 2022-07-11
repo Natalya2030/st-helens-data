@@ -80,7 +80,7 @@ COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: ''
+REC_USE_LIM: 'Subsequent data available [Non-statistical Indicator: Legislation, The registration of Births, Deaths and Marriages 1968 which came into operation on 1 April 1969](https://www.legislation.gov.uk/uksi/1968/2049/made)'
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
