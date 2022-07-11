@@ -81,7 +81,7 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
     Due to disaggregation not available at the local level, this data represents
-  the East Merseyside as opposed to St Helens.
+    East Merseyside as opposed to St Helens.
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
