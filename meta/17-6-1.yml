@@ -66,7 +66,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: unece_info@un.org
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: rate per 100 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
