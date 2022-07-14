@@ -11,20 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number",
-                "Per 100,000 People",
-                "Percentage"
-              ]
-            },
-            "title": "Unit"
-          },
-          {
-            "name": "Unnamed: 1",
+            "name": "Birth/Deaths",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +22,19 @@
                 "Male Deaths"
               ]
             },
-            "title": "Unnamed: 1"
+            "title": "Birth/Deaths"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Per 100,000 People"
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
